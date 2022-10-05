@@ -135,12 +135,11 @@ export default {
            if (!this.v$.$error) {
         // if ANY fail validation
                 this.feedback = 'Форма успешна отправлена'
-                console.log(this.form);
-                this.v$.$reset()
+              
             } else {
                 this.feedback = 'Форма незарегистрирована'
             }
-
+            this.form = ''
         }
     },
 }
