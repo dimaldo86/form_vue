@@ -1,0 +1,18 @@
+:root {
+    --main-color:#7c9cbf;
+    --secondary-color: rgb(44, 39, 56, 1);
+    --text-color:rgb(117, 111, 134, 1);
+    --actived-color:#0880ae;
+    --white-color:#fff;
+    --border-color:#DBE2EA;
+    --failed-color:#FF7171;
+    --light-color:#B1B5BF;
+    --body-color:#E5E5E5;
+    --hover-color: rgba(235, 244, 248, 1);
+    --hover-link:#46a6cc;
+    --success-color:#498b56;
+
+
+    --main-font:'IBM Plex Sans', sans-serif;
+
+}
