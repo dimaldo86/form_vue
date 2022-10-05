@@ -76,7 +76,7 @@ export default {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    margin-top: 34px;
+    margin-top: 18px;
 
     &__label {
         color: var(--text-color);

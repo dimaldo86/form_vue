@@ -13,7 +13,7 @@
     justify-content: center;
     width: 100%;
     height: 56px;
-    margin-top: 37px;
+    margin-top: 25px;
     background: var(--actived-color);
     box-shadow: 0px 2px 4px rgba(var(--secondary-color), 0.08), 0px 4px 8px rgba(var(--secondary-color), 0.08);
     color:var(--hover-color);

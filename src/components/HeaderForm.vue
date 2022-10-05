@@ -20,7 +20,7 @@ export default {
 .header {
     display:flex;
     flex-direction:column;
-    margin-bottom: 20px;
+   
 
     &__title {
         font-weight: 700;
